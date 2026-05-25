@@ -1,4 +1,4 @@
-```markdown
+
 # Data Analyst & Business Analyst Job Automation
 
 Specialized job hunting automation for **Data Analyst** and **Business Analyst** roles.
