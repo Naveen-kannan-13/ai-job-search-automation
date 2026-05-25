@@ -140,12 +140,12 @@ Jobs are scored based on:
 - Title Match
 - Experience Match
 
-| Level | Score |
-|-------|-------|
-| Excellent | 80-100% |
-| Good | 60-79% |
-| Fair | 40-59% |
-| Poor | <40% |
+| Level | Score | Description |
+|-------|-------|-------------|
+| 🟢 Excellent | 80-100% | Strong match - Apply immediately |
+| 🟡 Good | 60-79% | Good fit - Worth applying |
+| 🟠 Fair | 40-59% | Some skills match - Consider applying |
+| 🔴 Poor | <40% | Limited match - Development needed |
 
 ---
 
